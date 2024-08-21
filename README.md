@@ -22,3 +22,6 @@
 #### Build and train suitable predictive model to meet the problem statement
 #### Write an executive summary
 #### Create a short summarizing slide
+
+## Certificate :
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_uTpJqAeA46u2a7feo_1723968794295_completion_certificate.pdf
